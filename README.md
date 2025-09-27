@@ -1,7 +1,5 @@
 # CyberRiskScanner
-# SecurityAuditTool
-
-SecurityAuditTool is a Python-based project designed to help students and early-career cybersecurity professionals learn how to perform basic vulnerability scans on safe test environments. It can scan local hosts for open ports, check for weak passwords, and generate a simple risk report. This tool is intended for educational and authorized testing purposes only.
+CyberRiskScanner Tool is a Python-based project designed to help students and early-career cybersecurity professionals learn how to perform basic vulnerability scans on safe test environments. It can scan local hosts for open ports, check for weak passwords, and generate a simple risk report. This tool is intended for educational and authorized testing purposes only.
 
 ## Features
 - Scan specified hosts for open ports
